@@ -1,2 +1,4 @@
 out/
 *.log
+
+# Ignore generated build logs
