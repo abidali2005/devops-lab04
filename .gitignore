@@ -2,3 +2,8 @@ out/
 *.log
 
 # Ignore generated build logs
+
+# Editor swap and backup files
+*.swp
+*.swo
+*~
